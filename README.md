@@ -1,24 +1,6 @@
-# arch-count
+# ArchCount
+Track and Improve Your Archery Training with Arrow Logging and Achievement Tracking
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://github.com/rutipop/ArchCount/assets/29456431/f9ae20c4-80fc-4e49-90c5-936ebfac4f97
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
